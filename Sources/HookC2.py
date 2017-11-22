@@ -1,6 +1,11 @@
 import frida
 import sys
 
+#
+# This code is not working on my device, feel free to reach me on Twitter @fvrmatteo
+# if you know a possible solution to the problem.
+#
+
 PROCESS_NAME = 'en.cold.jewel.th.lines'
 
 jscode = """
